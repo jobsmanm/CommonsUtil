@@ -1,7 +1,0 @@
-README.md
-setup.py
-CammonsUtils.egg-info/PKG-INFO
-CammonsUtils.egg-info/SOURCES.txt
-CammonsUtils.egg-info/dependency_links.txt
-CammonsUtils.egg-info/top_level.txt
-CammonsUtils.egg-info/zip-safe
